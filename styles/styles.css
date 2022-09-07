@@ -3,7 +3,7 @@ html {
 }
 body {
   background-color: #f3f7fa;
-  background-image: url(./media/bg1.jpg);
+  background-image: url(../media/bg1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
